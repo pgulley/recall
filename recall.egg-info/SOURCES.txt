@@ -1,0 +1,9 @@
+setup.py
+recall/__init__.py
+recall/tasks.py
+recall.egg-info/PKG-INFO
+recall.egg-info/SOURCES.txt
+recall.egg-info/dependency_links.txt
+recall.egg-info/entry_points.txt
+recall.egg-info/requires.txt
+recall.egg-info/top_level.txt

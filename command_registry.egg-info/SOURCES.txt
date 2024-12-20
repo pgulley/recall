@@ -1,0 +1,6 @@
+setup.py
+command_registry.egg-info/PKG-INFO
+command_registry.egg-info/SOURCES.txt
+command_registry.egg-info/dependency_links.txt
+command_registry.egg-info/entry_points.txt
+command_registry.egg-info/top_level.txt
